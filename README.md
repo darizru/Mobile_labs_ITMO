@@ -1,6 +1,10 @@
 # Mobile_labs_ITMO
-Labs - Mobile devices management (ITMO)
-Студент: Захарова Дарья Игоревна
+Labs - Mobile devices management (ITMO)  
+
+Лабораторные - Управление мобильными устройствами  
+
+Студент: Захарова Дарья Игоревна  
+
 Группа: N3352
 Вариант: 6
 
